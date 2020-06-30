@@ -1,9 +1,11 @@
 ## Introduction to Visual Culture
+### VMS 202D
+
+**Format**: Online Synchronous, Lecture & Discussion Sections
+**Lecture**: Tues/Thurs 10:15 AM - 11:30 AM // August 18, 2020 - November 23, 2020 // [Zoom Link](https://duke.zoom.us/j/92723690278)
+**Discussion**: Section 1: Friday 8:30 AM - 9:20 AM // Section 2: Friday 10:15 AM - 11:05 AM
 
 
-You can use the [editor on GitHub](https://github.com/maxsym23/VMS202D/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
